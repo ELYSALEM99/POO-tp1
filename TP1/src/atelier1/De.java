@@ -6,7 +6,7 @@ public class De {
 	private int nbFaces;
 	private static int i=0;
 	private static Random r = new Random();
-	private static int testLan=0;
+	private  int testLan=0;
 	public De() {
 		nom="De";
 		nbFaces=6;
