@@ -3,7 +3,6 @@ package atelier1;
 public class Testtp1 {
 
 	public static void main(String[] args) {
-		//AGQQG
 		De d1=new De();
 		De d4=new De();
 		De d2=new De("des");
